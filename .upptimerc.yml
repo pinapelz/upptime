@@ -19,6 +19,7 @@ status-website:
   name: Upptime
   introTitle: "Current Live Operations Status"
   introMessage: The current status of various services, updated every 5 minutes.
+  navbar:
     - title: Status
       href: /
     - title: GitHub
