@@ -22,18 +22,20 @@
     "url": "https://moekyun.me",
     "icon": "https://icons.duckduckgo.com/ip3/moekyun.me.ico",
     "slug": "moekyun-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1982,
-    "timeDay": 1412,
-    "timeWeek": 1480,
-    "timeMonth": 1982,
-    "timeYear": 1982,
-    "dailyMinutesDown": {}
+    "time": 2004,
+    "timeDay": 1968,
+    "timeWeek": 1611,
+    "timeMonth": 2004,
+    "timeYear": 2004,
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "Patchwork Archive",
