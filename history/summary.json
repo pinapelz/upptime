@@ -4,18 +4,20 @@
     "url": "https://phase-tracker.com",
     "icon": "https://icons.duckduckgo.com/ip3/phase-tracker.com.ico",
     "slug": "phase-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1717,
-    "timeDay": 2049,
-    "timeWeek": 1876,
-    "timeMonth": 1711,
-    "timeYear": 1717,
-    "dailyMinutesDown": {}
+    "time": 1709,
+    "timeDay": 1650,
+    "timeWeek": 1798,
+    "timeMonth": 1696,
+    "timeYear": 1709,
+    "dailyMinutesDown": {
+      "2024-03-23": 0
+    }
   },
   {
     "name": "Moekyun Services",
