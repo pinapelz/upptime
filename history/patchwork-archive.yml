@@ -1,7 +1,7 @@
 url: https://patchwork-backend.vercel.app/api/database/status
 status: up
 code: 200
-responseTime: 983
-lastUpdated: 2024-04-21T23:02:52.882Z
+responseTime: 1101
+lastUpdated: 2024-04-22T23:03:20.109Z
 startTime: 2024-01-25T16:12:30.605Z
 generator: Upptime <https://github.com/upptime/upptime>
