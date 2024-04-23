@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/moekyun.me.ico",
     "slug": "moekyun-services",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.74%",
+    "uptimeYear": "97.76%",
     "time": 1485,
     "timeDay": 1760,
     "timeWeek": 1213,
@@ -50,17 +50,19 @@
     "url": "https://patchwork-backend.vercel.app/api/database/status",
     "icon": "https://icons.duckduckgo.com/ip3/patchwork-backend.vercel.app.ico",
     "slug": "patchwork-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 1101,
-    "timeWeek": 983,
-    "timeMonth": 979,
-    "timeYear": 939,
-    "dailyMinutesDown": {}
+    "time": 934,
+    "timeDay": 803,
+    "timeWeek": 923,
+    "timeMonth": 964,
+    "timeYear": 934,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
