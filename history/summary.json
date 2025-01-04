@@ -130,18 +130,20 @@
     "url": "https://vtuber-captcha.vercel.app/api/affiliation/Hololive",
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 179,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "PhaseTracker",
