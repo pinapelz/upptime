@@ -9,6 +9,7 @@ sites:
     url: https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json
   - name: Moekyun Social
     url: https://social.moekyun.me/api/ping
+    method: POST
   - name: MoekyunTea (Gitea)
     url: https://git.moekyun.me
   - name: MoekyunRSS
@@ -17,7 +18,6 @@ sites:
     url: https://link.moekyun.me/
   - name: Moekyun Karaoke
     url: https://karaoke.moekyun.me/
-    method: POST
   - name: VTuber Captcha
     url: https://vtuber-captcha.vercel.app/api/affiliation/Hololive
   - name: PhaseTracker
