@@ -8,8 +8,7 @@ sites:
   - name: Patchwork Radio
     url: https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json
   - name: Moekyun Social
-    url: https://social.moekyun.me/api/ping
-    method: POST
+    url: https://social.moekyun.me/api/server-info
   - name: MoekyunTea (Gitea)
     url: https://git.moekyun.me
   - name: MoekyunRSS
