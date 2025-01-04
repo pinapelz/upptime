@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.moekyun.me.ico",
     "slug": "moekyun-social",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/karaoke.moekyun.me.ico",
     "slug": "moekyun-karaoke",
     "status": "up",
-    "uptime": "1.86%",
-    "uptimeDay": "1.86%",
-    "uptimeWeek": "1.86%",
-    "uptimeMonth": "1.86%",
-    "uptimeYear": "1.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 287,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2025-01-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VTuber Captcha",
@@ -135,19 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
     "status": "up",
-    "uptime": "1.33%",
-    "uptimeDay": "1.33%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 199,
     "timeWeek": 199,
     "timeMonth": 199,
     "timeYear": 199,
-    "dailyMinutesDown": {
-      "2025-01-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PhaseTracker",
