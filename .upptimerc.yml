@@ -1,31 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: pinapelz # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Patchwork Archive
+    url: https://archive.pinapelz.moe/api/database/status
+  - name: Patchwork Radio
+    url: https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json
+  - name: Moekyun Social
+    url: https://social.moekyun.me/api/ping
+  - name: MoekyunTea (Gitea)
+    url: https://git.moekyun.me
+  - name: MoekyunRSS
+    url: https://service.moekyun.me/rss
+  - name: Moekyun Link Shortener
+    url: https://link.moekyun.me/
+  - name: Moekyun Karaoke
+    url: https://karaoke.moekyun.me/
+    method: POST
+  - name: VTuber Captcha
+    url: https://vtuber-captcha.vercel.app/api/affiliation/Hololive
+  - name: PhaseTracker
+    url: https://api.phase-tracker.com/api/channel/Erina%20Makina
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.moekyun.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Moekyun Service Status
+  introTitle: "Status for all moekyun.me services"
+  introMessage: "Providing only the most moe of web services"
   navbar:
     - title: Status
       href: /
