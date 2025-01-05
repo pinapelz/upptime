@@ -130,19 +130,19 @@
     "url": "https://vtuber-captcha.vercel.app/api/affiliation/Hololive",
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
-    "status": "down",
-    "uptime": "27.09%",
-    "uptimeDay": "22.88%",
-    "uptimeWeek": "27.09%",
-    "uptimeMonth": "27.09%",
-    "uptimeYear": "27.09%",
-    "time": 849,
-    "timeDay": 1078,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "status": "up",
+    "uptime": "26.17%",
+    "uptimeDay": "22.89%",
+    "uptimeWeek": "26.17%",
+    "uptimeMonth": "26.17%",
+    "uptimeYear": "26.17%",
+    "time": 945,
+    "timeDay": 1193,
+    "timeWeek": 945,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {
-      "2025-01-05": 552,
+      "2025-01-05": 609,
       "2025-01-04": 629
     }
   },
@@ -152,18 +152,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.phase-tracker.com.ico",
     "slug": "phase-tracker",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 988,
-    "timeDay": 959,
+    "timeDay": 996,
     "timeWeek": 988,
     "timeMonth": 988,
     "timeYear": 988,
-    "dailyMinutesDown": {
-      "2025-01-05": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
