@@ -4,18 +4,20 @@
     "url": "https://archive.pinapelz.moe/api/database/status",
     "icon": "https://icons.duckduckgo.com/ip3/archive.pinapelz.moe.ico",
     "slug": "patchwork-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1965,
-    "timeDay": 1354,
-    "timeWeek": 1965,
-    "timeMonth": 1965,
-    "timeYear": 1965,
-    "dailyMinutesDown": {}
+    "time": 3132,
+    "timeDay": 5744,
+    "timeWeek": 3132,
+    "timeMonth": 3132,
+    "timeYear": 3132,
+    "dailyMinutesDown": {
+      "2025-01-06": 0
+    }
   },
   {
     "name": "Patchwork Radio",
@@ -131,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
     "status": "down",
-    "uptime": "47.11%",
-    "uptimeDay": "69.48%",
-    "uptimeWeek": "47.11%",
-    "uptimeMonth": "47.11%",
-    "uptimeYear": "47.11%",
+    "uptime": "46.19%",
+    "uptimeDay": "65.08%",
+    "uptimeWeek": "46.19%",
+    "uptimeMonth": "46.19%",
+    "uptimeYear": "46.19%",
     "time": 1215,
     "timeDay": 1447,
     "timeWeek": 1215,
     "timeMonth": 1215,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-01-06": 316,
+      "2025-01-06": 379,
       "2025-01-05": 732,
       "2025-01-04": 629
     }
