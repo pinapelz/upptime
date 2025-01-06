@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.pinapelz.moe.ico",
     "slug": "patchwork-archive",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3480,
     "timeDay": 4873,
     "timeWeek": 3480,
     "timeMonth": 3480,
     "timeYear": 3480,
-    "dailyMinutesDown": {
-      "2025-01-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Patchwork Radio",
@@ -133,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
     "status": "down",
-    "uptime": "44.17%",
-    "uptimeDay": "59.48%",
-    "uptimeWeek": "44.17%",
-    "uptimeMonth": "44.17%",
-    "uptimeYear": "44.17%",
+    "uptime": "41.65%",
+    "uptimeDay": "48.98%",
+    "uptimeWeek": "41.65%",
+    "uptimeMonth": "41.65%",
+    "uptimeYear": "41.65%",
     "time": 1215,
-    "timeDay": 1477,
+    "timeDay": 1480,
     "timeWeek": 1215,
     "timeMonth": 1215,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-01-06": 527,
+      "2025-01-06": 732,
       "2025-01-05": 732,
       "2025-01-04": 629
     }
@@ -154,17 +152,19 @@
     "url": "https://api.phase-tracker.com/api/channel/Erina%20Makina",
     "icon": "https://icons.duckduckgo.com/ip3/api.phase-tracker.com.ico",
     "slug": "phase-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1114,
-    "timeWeek": 1001,
-    "timeMonth": 1001,
-    "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "time": 976,
+    "timeDay": 920,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
+    "dailyMinutesDown": {
+      "2025-01-06": 0
+    }
   }
 ]
