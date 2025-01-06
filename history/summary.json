@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
     "status": "down",
-    "uptime": "41.65%",
-    "uptimeDay": "48.98%",
-    "uptimeWeek": "41.65%",
-    "uptimeMonth": "41.65%",
-    "uptimeYear": "41.65%",
+    "uptime": "41.54%",
+    "uptimeDay": "48.44%",
+    "uptimeWeek": "41.54%",
+    "uptimeMonth": "41.54%",
+    "uptimeYear": "41.54%",
     "time": 1215,
-    "timeDay": 1480,
+    "timeDay": 1522,
     "timeWeek": 1215,
     "timeMonth": 1215,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-01-06": 732,
+      "2025-01-06": 742,
       "2025-01-05": 732,
       "2025-01-04": 629
     }
@@ -152,19 +152,19 @@
     "url": "https://api.phase-tracker.com/api/channel/Erina%20Makina",
     "icon": "https://icons.duckduckgo.com/ip3/api.phase-tracker.com.ico",
     "slug": "phase-tracker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 920,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 978,
+    "timeDay": 948,
+    "timeWeek": 978,
+    "timeMonth": 978,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2025-01-06": 0
+      "2025-01-06": 10
     }
   }
 ]
