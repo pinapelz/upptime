@@ -19,6 +19,8 @@ sites:
     url: https://karaoke.moekyun.me/
   - name: PhaseTracker
     url: https://api.phase-tracker.com/api/channel/Erina%20Makina
+  - name: VTuber Captcha
+    url: https://vtuber-captcha.vercel.app/api/affiliation/Holol
   
 
 status-website:
