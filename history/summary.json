@@ -4,18 +4,20 @@
     "url": "https://archive.pinapelz.moe/api/database/status",
     "icon": "https://icons.duckduckgo.com/ip3/archive.pinapelz.moe.ico",
     "slug": "patchwork-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3348,
-    "timeDay": 4730,
-    "timeWeek": 3348,
-    "timeMonth": 3348,
-    "timeYear": 3348,
-    "dailyMinutesDown": {}
+    "time": 3867,
+    "timeDay": 5498,
+    "timeWeek": 3867,
+    "timeMonth": 3867,
+    "timeYear": 3867,
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "Patchwork Radio",
