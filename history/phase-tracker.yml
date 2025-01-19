@@ -1,7 +1,7 @@
 url: https://api.phase-tracker.com/api/channel/Erina%20Makina
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2025-01-19T01:38:33.193Z
+status: down
+code: 500
+responseTime: 683
+lastUpdated: 2025-01-19T08:00:41.494Z
 startTime: 2025-01-04T10:12:57.799Z
 generator: Upptime <https://github.com/upptime/upptime>
