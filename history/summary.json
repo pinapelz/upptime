@@ -24,19 +24,19 @@
     "url": "https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json",
     "icon": "https://icons.duckduckgo.com/ip3/a4.asurahosting.com.ico",
     "slug": "patchwork-radio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 0,
-    "timeWeek": 571,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 634,
+    "timeDay": 513,
+    "timeWeek": 562,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-01-28": 0
+      "2025-01-28": 5
     }
   },
   {
