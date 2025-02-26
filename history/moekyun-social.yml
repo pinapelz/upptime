@@ -1,7 +1,7 @@
 url: https://social.moekyun.me/api/server-info
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2025-02-26T11:35:26.247Z
+status: down
+code: 500
+responseTime: 108
+lastUpdated: 2025-02-26T11:42:37.815Z
 startTime: 2025-01-04T10:12:47.692Z
 generator: Upptime <https://github.com/upptime/upptime>
