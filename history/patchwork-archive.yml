@@ -1,7 +1,7 @@
 url: https://archive.pinapelz.moe/api/database/status
-status: up
-code: 200
-responseTime: 1270
-lastUpdated: 2025-03-02T07:15:53.295Z
+status: down
+code: 504
+responseTime: 10491
+lastUpdated: 2025-03-02T16:01:09.931Z
 startTime: 2025-01-04T10:12:40.963Z
 generator: Upptime <https://github.com/upptime/upptime>
