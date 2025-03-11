@@ -3,24 +3,25 @@ owner: pinapelz # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: Moekyun Service (Social, Gitea)
+    url: https://social.moekyun.me/api/server-info
   - name: Patchwork Archive
     url: https://archive.pinapelz.moe/api/database/status
   - name: Patchwork Radio
     url: https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json
-  - name: Moekyun Social
-    url: https://social.moekyun.me/api/server-info
-  - name: MoekyunTea (Gitea)
-    url: https://git.moekyun.me
-  - name: MoekyunRSS
-    url: https://service.moekyun.me/rss
   - name: Moekyun Link Shortener
     url: https://link.moekyun.me/
-  - name: Moekyun Karaoke
-    url: https://karaoke.moekyun.me/
   - name: PhaseTracker
     url: https://api.phase-tracker.com/api/channel/Erina%20Makina
   - name: VTuber Captcha
     url: https://vtuber-captcha.vercel.app/api/affiliation/Hololive
+  - name: Leciel (Tachi)
+    url: https://leciel.pinapelz.com/api/v1/config
+  - name: Leciel ~Pharia~ (eAmuse)
+    url: https://pharia.pinapelz.com
+  - name: Leciel ~Quna~ (ALL.Net)
+    url: https://kanui.pinapelz.com
+  
   
 
 status-website:
@@ -30,7 +31,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Moekyun Service Status
-  introTitle: "Status for all moekyun.me services"
+  introTitle: "Uptime and Status of all Moekyun Servinces~"
   introMessage: "Providing only the most moe of web services. Please report all issues to [GitHub](https://github.com/pinapelz/upptime)"
   navbar:
     - title: Status
