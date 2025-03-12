@@ -31,7 +31,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Moekyun Service Status
-  introTitle: "Uptime and Status of all Moekyun Servinces~"
+  introTitle: "Uptime and Status of all ~Moekyun Services~"
   introMessage: "Providing only the most moe of web services. Please report all issues to [GitHub](https://github.com/pinapelz/upptime)"
   navbar:
     - title: Status
