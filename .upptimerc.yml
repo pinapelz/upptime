@@ -19,6 +19,8 @@ sites:
     url: https://leciel.pinapelz.com/api/v1/config
   - name: Leciel ~Pharia~ (eAmuse)
     url: https://pharia.pinapelz.com
+    expectedStatusCodes:
+      - 404
   - name: Leciel ~Quna~ (ALL.Net)
     url: https://kanui.pinapelz.com
   
