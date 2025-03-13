@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #FFF7FA;      /* Light, airy pink for the page background */
+  --body-text-color: #3C0F1B;           /* Deep dusty rose for readable text */
+  --card-background-color: #FFEEF5;     /* Slightly deeper pink than body for contrast */
+  --card-border-color: #FABFD8;         /* Soft pink border */
+  --nav-background-color: #FFEEF5;      /* Matches card background */
+  --nav-border-bottom-color: #FABFD8;
+  --nav-current-border-bottom-color: #F48FB1;  /* A more saturated pink highlight */
+  --down-border-left-color: #F26D9B;    /* A stronger pinkish-red for “down” status */
+  --down-background-color: #FCC5D5;     
+  --degraded-border-left-color: #F9AFC2;/* Lighter pink for “degraded” status */
+  --up-border-left-color: #F48FB1;      /* Mid-range pink for “up” status */
+  --tag-color: #FFEEF5;                 /* Same as card background, so tags blend softly */
+  --tag-up-background-color: #F48FB1;   
+  --tag-down-background-color: #F26D9B; 
+  --tag-degraded-background-color: #F9AFC2; 
+  --change-background-color: #F9AFC2;   /* Matches “degraded” pink */
+  --error-button-border-color: #BF4379; 
+  --error-button-background-color: #DD5A8C;
+  --error-button-color: #FFFFFF;
+  --submit-button-border-color: #BF4379;
+  --submit-button-background-color: #DD5A8C;
+  --submit-button-color: #FFFFFF;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
