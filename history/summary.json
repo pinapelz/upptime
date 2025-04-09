@@ -234,19 +234,19 @@
     "url": "https://cloud.moekyun.me/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.moekyun.me.ico",
     "slug": "moekyun-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 780,
-    "timeWeek": 1608,
-    "timeMonth": 997,
-    "timeYear": 997,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 984,
+    "timeDay": 712,
+    "timeWeek": 1488,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2025-04-09": 0
+      "2025-04-09": 12
     }
   }
 ]
