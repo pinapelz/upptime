@@ -12,7 +12,7 @@ sites:
   - name: Moekyun Link Shortener
     url: https://link.moekyun.me/
   - name: PhaseTracker
-    url: https://api.phase-tracker.com/api/channel/Erina%20Makina
+    url: https://api.staging.phase-tracker.com/index.html
   - name: VTuber Captcha
     url: https://vtuber-captcha.vercel.app/api/affiliation/Hololive
   - name: Leciel (Tachi)
