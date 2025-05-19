@@ -1,7 +1,7 @@
 url: https://vtuber-captcha.vercel.app/api/affiliation/Hololive
-status: up
-code: 200
-responseTime: 5493
-lastUpdated: 2025-05-19T14:43:17.769Z
+status: down
+code: 504
+responseTime: 10161
+lastUpdated: 2025-05-19T14:52:24.862Z
 startTime: 2025-01-07T09:27:28.490Z
 generator: Upptime <https://github.com/upptime/upptime>
