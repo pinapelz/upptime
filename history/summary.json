@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vtuber-captcha.vercel.app.ico",
     "slug": "v-tuber-captcha",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 1877,
     "timeDay": 1750,
     "timeWeek": 1589,
@@ -252,9 +252,9 @@
     "url": "https://cloud.moekyun.me/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.moekyun.me.ico",
     "slug": "moekyun-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,6 +263,8 @@
     "timeWeek": 823,
     "timeMonth": 806,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-11": 0
+    }
   }
 ]
