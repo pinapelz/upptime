@@ -75,18 +75,20 @@
     "url": "https://a4.asurahosting.com/api/nowplaying_static/patchworkarchive.json",
     "icon": "https://icons.duckduckgo.com/ip3/a4.asurahosting.com.ico",
     "slug": "patchwork-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 750,
-    "timeWeek": 617,
-    "timeMonth": 620,
+    "timeDay": 659,
+    "timeWeek": 611,
+    "timeMonth": 618,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "Moekyun Link Shortener",
