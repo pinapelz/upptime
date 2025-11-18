@@ -1,7 +1,7 @@
 url: https://api.staging.phase-tracker.com/index.html
-status: down
-code: 500
-responseTime: 182
-lastUpdated: 2025-11-18T12:08:29.499Z
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2025-11-18T12:14:37.535Z
 startTime: 2025-01-04T10:12:57.799Z
 generator: Upptime <https://github.com/upptime/upptime>
