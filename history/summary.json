@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.pinapelz.moe.ico",
     "slug": "patchwork-archive",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "67.53%",
+    "uptime": "99.23%",
+    "uptimeDay": "67.51%",
     "uptimeWeek": "95.36%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "99.22%",
-    "time": 3499,
+    "uptimeYear": "99.23%",
+    "time": 3498,
     "timeDay": 4758,
     "timeWeek": 4307,
-    "timeMonth": 3582,
-    "timeYear": 3502,
+    "timeMonth": 3575,
+    "timeYear": 3501,
     "dailyMinutesDown": {
       "2026-01-04": 371,
       "2026-01-03": 98,
@@ -49,8 +49,7 @@
       "2025-02-14": 253,
       "2025-02-13": 977,
       "2025-02-12": 143,
-      "2025-02-11": 146,
-      "2025-02-10": 45
+      "2025-02-11": 146
     }
   },
   {
