@@ -4,17 +4,17 @@
     "url": "https://archive.pinapelz.moe/api/database/status",
     "icon": "https://icons.duckduckgo.com/ip3/archive.pinapelz.moe.ico",
     "slug": "patchwork-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "65.89%",
+    "uptimeDay": "65.88%",
     "uptimeWeek": "95.13%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "99.23%",
-    "time": 3504,
-    "timeDay": 4825,
-    "timeWeek": 4383,
-    "timeMonth": 3610,
-    "timeYear": 3507,
+    "time": 3503,
+    "timeDay": 4759,
+    "timeWeek": 4335,
+    "timeMonth": 3601,
+    "timeYear": 3505,
     "dailyMinutesDown": {
       "2026-01-04": 395,
       "2026-01-03": 98,
@@ -49,7 +49,7 @@
       "2025-02-14": 253,
       "2025-02-13": 977,
       "2025-02-12": 143,
-      "2025-02-11": 146
+      "2025-02-11": 123
     }
   },
   {
