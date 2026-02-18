@@ -1,7 +1,7 @@
 url: https://leciel.pinapelz.com/api/v1/config
-status: down
-code: 502
-responseTime: 300
-lastUpdated: 2026-02-18T10:06:01.950Z
+status: up
+code: 200
+responseTime: 294
+lastUpdated: 2026-02-18T10:26:12.669Z
 startTime: 2025-03-11T23:49:00.674Z
 generator: Upptime <https://github.com/upptime/upptime>
